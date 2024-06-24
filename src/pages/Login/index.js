@@ -43,7 +43,6 @@ const Login = () => {
           <button type="submit" className="w-full py-3 bg-black text-white focus:outline-none focus:ring-4 mt-6 rounded-lg transition duration-300">
             Entrar
           </button>
-          <p className="text-base text-primary text-center my-6 hover:underline cursor-pointer">Precisa de uma conta ?</p>
         </form>
       </div>
     </main>
